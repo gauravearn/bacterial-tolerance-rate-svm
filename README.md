@@ -1,5 +1,5 @@
 # bacterial_tolerance_rate_support_vector_machine
-a support vector based machine learning to predict the tolerance rates in the bacterial infections. It uses eps-regression and although the c-type classification can be applied if you want to predict the time variable: applying support vector machine to predict and fine tune a model to predict the tolerance rates based on the timing, age and exposure to a bacterial species.if you change the type to c-classification and uses the time formula then it accurately predicts the onset of the bacterial rates.
+a support vector based machine learning to predict the tolerance rates in the bacterial infections. It uses eps-regression and although the c-type classification can be applied if you want to predict the time variable: applying support vector machine to predict and fine tune a model to predict the tolerance rates based on the timing, age and exposure to a bacterial species.if you change the type to c-classification and uses the time formula then it accurately predicts the onset of the bacterial rates. Data supplied online from github bioinformatics and sample data is there. I also trained an ANN and a bigger model on a different datset. 
 
 Gaurav Sablok \
 Frontiers: https://loop.frontiersin.org/people/33293/overview \
